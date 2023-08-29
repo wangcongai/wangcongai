@@ -2,7 +2,7 @@
 - 👀 I’m interested in multimodal, LLM, AIGC
 - 🌱 I’m currently learning to build music generation framework based on text prompts.
 - 💞️ I’m looking to collaborate on peaple who are interested in the same field.
-- 📫 Email: wangcong333666@qq.com  Phone: +86 18601024331
+- 📫 Email: wangcong333666[AT]qq.com
 
 <!---
 wangcongai/wangcongai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
